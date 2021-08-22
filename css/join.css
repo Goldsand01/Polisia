@@ -13,19 +13,13 @@ button:hover {
   background-color: #02cb69;
 }
 
-.explorer {
-  margin-top: 2rem;
-  margin-left: 26em;
-  align-self: center;
-  font-family: montserrat;
-  font-weight: 500;
-  font-size: 16px;
-  color: #ecf0f1;
-  text-decoration: none;
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-  transition: all 0.3s ease 0s;
+
+.container {
+  margin: auto;
+  margin-top: 10px;
+  width: 10%;
+  text-align: center;
+  background: none;
 }
 
 h1 {
@@ -72,7 +66,6 @@ button {
 
 .join2 {
   text-align: center;
-  padding-left: 750px;
 }
 
 #alert {
