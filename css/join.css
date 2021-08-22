@@ -13,17 +13,6 @@ button:hover {
   background-color: #02cb69;
 }
 
-.explorer {
-  font-family: montserrat;
-  font-weight: 500;
-  font-size: 16px;
-  color: #ecf0f1;
-  text-decoration: none;
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-  transition: all 0.3s ease 0s;
-}
 
 .container {
   margin: auto;
