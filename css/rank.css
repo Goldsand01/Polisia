@@ -6,14 +6,15 @@
   
 }
 #banner{
-  background: url(img/shop.jpg);
+  background: url(img/load.gif);
   background-size: cover;
     background-position: center;
     height: 100vh;
 }
-.header{
-  background-color: rgba(0, 0, 0, 0.3);} 
 
+.header{
+    background-color: rgba(0, 0, 0, 0.3);} 
+    
 button:hover {
   background-color: #02cb69;
 }

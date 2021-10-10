@@ -3,10 +3,16 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-image: url(img/joindiscord.png);
-  background-color: #2c2b2c;
+  
 }
-
+#banner{
+  background: url(img/join.png);
+  background-size: cover;
+    background-position: center;
+    height: 110vh;
+}
+.header{
+  background-color: rgba(0, 0, 0, 0.3);} 
 button:hover {
   background-color: #02cb69;
 }
