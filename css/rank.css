@@ -5,21 +5,21 @@
   padding: 0;
   
 }
-
 #banner{
-  background: url(img/home.png);
+  background: url(img/load.gif);
   background-size: cover;
     background-position: center;
     height: 100vh;
 }
-.header{
-  background-color: rgba(0, 0, 0, 0.3);} 
 
+.header{
+    background-color: rgba(0, 0, 0, 0.3);} 
+    
 button:hover {
   background-color: #02cb69;
 }
 
-.explorer {
+.soon {
   font-family: montserrat;
   font-weight: 500;
   font-size: 16px;
@@ -29,7 +29,7 @@ button:hover {
   border-radius: 50px;
   cursor: pointer;
   transition: all 0.3s ease 0s;
-  color: red;
+  color: rgb(255, 238, 0);
   text-align: center;
   font-size: 30px;
 }
